@@ -5,7 +5,7 @@
 replicaCount: 2
 
 image:
-  repository: azureregistry07.azurecr.io/nodeapp1
+  repository: azureregistry07.azurecr.io/azureregistry07
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "latest"
