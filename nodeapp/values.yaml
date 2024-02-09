@@ -5,10 +5,10 @@
 replicaCount: 2
 
 image:
-  repository: azureregistry07.azurecr.io/azureregistry07
+  repository:  azureregistry07.azurecr.io/azureregistry07
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: "166"
 
 imagePullSecrets:
   - name: new-acr-secret
