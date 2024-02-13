@@ -8,7 +8,7 @@ image:
   repository:  azureregistry07.azurecr.io/azureregistry07
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "latest"
+  tag: "166"
 
 imagePullSecrets:
   - name: argocd-image-updater-secret
