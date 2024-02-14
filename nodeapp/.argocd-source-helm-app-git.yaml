@@ -4,5 +4,5 @@ helm:
     value: azureregistry07.azurecr.io/azureregistry07
     forcestring: true
   - name: image.tag
-    value: "169"
+    value: "170"
     forcestring: true
